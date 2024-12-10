@@ -2,7 +2,7 @@
 
 ## Instalação do Site
 
-O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores...
+Não consegui colocar o arquivo aqui, pois ele é muito grande, então eu anexei na tarefa
 
 ## Histórico de versões
 
