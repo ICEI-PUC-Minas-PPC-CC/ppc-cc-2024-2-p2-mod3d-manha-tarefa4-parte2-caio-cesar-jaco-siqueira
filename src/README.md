@@ -2,7 +2,7 @@
 
 ## Instalação do Site
 
-Não consegui colocar o arquivo aqui, pois ele é muito grande, então eu anexei na tarefa
+https://drive.google.com/file/d/1Ga-gZSXQeJH4SQ8mCs2PDgCMFKlGDGch/view?usp=sharing
 
 ## Histórico de versões
 
